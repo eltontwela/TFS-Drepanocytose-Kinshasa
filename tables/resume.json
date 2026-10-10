@@ -1,0 +1,23 @@
+{
+  "n_obs": 1200,
+  "n_var": 19,
+  "n_quanti": 14,
+  "n_quali": 4,
+  "total_manquantes": 182,
+  "lignes_incompletes": 174,
+  "max_na_ligne": 2,
+  "dup_lignes": 0,
+  "dup_id": 0,
+  "dup_sans_id": 0,
+  "coherence": {
+    "hosp0_duree_pos": 0,
+    "hosp_pos_duree0": 0,
+    "valeurs_negatives": 0,
+    "spo2_sup_100": 0,
+    "pct_sup_100": 0,
+    "format_id_ok": true,
+    "ratio_hte_hb_moy": 3.01,
+    "ratio_hte_hb_min": 2.03,
+    "ratio_hte_hb_max": 3.95
+  }
+}
