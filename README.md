@@ -3,7 +3,7 @@
 Travail de fin de stage — Université de Kinshasa, Faculté des Sciences et Technologies,
 Département de Mathématiques, Statistique et Informatique.
 
-**Auteurs :** Jemima SENKERE AFIDOU, Jean-Christophe WIZAMO BILIKO, Don de Dieu MAKILA LUKIAN
+**Auteurs :** TWELA MWAY Elton, **Jean-Christophe WIZAMO BILIKO**, OYEMA MBOLADINGA Dawen, KABUYA EPOLE Lys, TSHIABU BEYA Bénédicte
 
 ## Objet du travail
 
