@@ -3,7 +3,7 @@
 Travail de fin de stage — Université de Kinshasa, Faculté des Sciences et Technologies,
 Département de Mathématiques, Statistique et Informatique.
 
-**Auteurs :** TWELA MWAY Elton, **Jean-Christophe WIZAMO BILIKO**, OYEMA MBOLADINGA Dawen, KABUYA EPOLE Lys, TSHIABU BEYA Bénédicte
+**Auteurs :**  **TWELA MWAY Elton**, MUAMBA MPOYI Charles, OYEMA MBOLADINGA Dawen, KABUYA EPOLE Lys, TSHIABU BEYA Bénédicte
 
 ## Objet du travail
 
